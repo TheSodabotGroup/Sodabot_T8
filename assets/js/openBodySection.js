@@ -1,4 +1,4 @@
-function onclick(SectionName) {
+function openBodySection(SectionName) {
   var i;
   var x = document.getElementsByClassName("bodySection");
   for (i = 0; i < x.length; i++) {
