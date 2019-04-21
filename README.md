@@ -1,4 +1,4 @@
-## Welcome to the main page of the Inexpensive, Highly Customizable, Snack Delivering Household Robot !
+## Welcome to the page of the next big thing in the beverage industry
 
 
 You can use the [editor on GitHub](https://github.com/TheSodabotGroup/Sodabot_T8/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
